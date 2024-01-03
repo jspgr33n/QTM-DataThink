@@ -16,3 +16,6 @@
   - Make sure companies have emails to maximize utilitiy: receive get-a-quote requests, a key feature of the BBB membership.
 - Companies who have churned tend to have lower change in their ratings.
   - Focus on informing smaller companies of the benefits of a BBB membership.
+
+**Final Presentation:**
+- [BBB Final Presentation](https://github.com/jspgr33n/QTM-DataThink/blob/main/BBB%20DataThink%20Final%20Presentation.pdf)
