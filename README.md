@@ -1,4 +1,4 @@
-# QTM-DataThink
+# Reducing Churn Rate for the BBB
 > Emory University Quantitative Theory &amp; Methods Department: DataThink Program
 
 **Goal:**
