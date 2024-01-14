@@ -17,6 +17,8 @@
 - Companies who have churned tend to have lower change in their ratings.
   - Focus on informing smaller companies of the benefits of a BBB membership.
 
+> Note: for more information regarding the procedure and the observations of the project, please take a look at the final presentation!
+
 **Final Presentation:**
 </br>
 </br>
